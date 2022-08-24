@@ -1,0 +1,13 @@
+# No Unsecure files
+*pwd*
+*pass*
+*password*
+*.txt
+
+# No binaries or compressed files
+*.bin
+*.jar
+*.tar
+*.zip
+*.gzip
+*.tgz
